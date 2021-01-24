@@ -1,3 +1,2 @@
-from django.test import TestCase
+a=5
 
-# Create your tests here.
